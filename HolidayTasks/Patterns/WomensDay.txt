@@ -1,0 +1,23 @@
+Candy-100
+
+Wine-200
+
+Flowers-1000
+
+Chain-500
+
+Ring-1000
+
+bourbon-3000
+
+cocaine-2500
+
+joker-80
+
+gin and tonic-300
+
+IQ-10
+
+telephone-300
+
+.
